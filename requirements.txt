@@ -1,0 +1,10 @@
+Flask
+pandas
+scikit-learn
+Flask==2.3.3  # Ensure compatibility with Flask
+pandas==2.1.1  # Match recent pandas versions
+scikit-learn==1.3.0  # Works well with pandas and TfidfVectorizer
+
+
+
+# To install these requirements -> pip install -r requirements.txt
